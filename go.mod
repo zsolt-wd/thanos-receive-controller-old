@@ -8,7 +8,7 @@ require (
 	github.com/oklog/run v1.2.0
 	github.com/prometheus/client_golang v1.25.0
 	github.com/thanos-io/thanos v0.42.5
-	k8s.io/api v0.37.1
+	k8s.io/api v0.37.2
 	k8s.io/apimachinery v0.37.2
 	k8s.io/client-go v0.37.1
 	k8s.io/kubectl v0.37.1

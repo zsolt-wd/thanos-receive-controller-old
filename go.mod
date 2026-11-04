@@ -1,13 +1,13 @@
 module github.com/observatorium/thanos-receive-controller
 
-go 1.26.0
+go 1.26.10
 
 require (
 	github.com/go-kit/log v0.2.1
 	github.com/google/go-cmp v0.7.0
 	github.com/oklog/run v1.2.0
 	github.com/prometheus/client_golang v1.25.0
-	github.com/thanos-io/thanos v0.42.4
+	github.com/thanos-io/thanos v0.42.5
 	k8s.io/api v0.37.1
 	k8s.io/apimachinery v0.37.2
 	k8s.io/client-go v0.37.1
